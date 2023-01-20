@@ -5,4 +5,4 @@
  * @author Operator1
  *
  */
-package interface_1;
+package multiThreading_via__ThreadClass;
